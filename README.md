@@ -310,14 +310,4 @@ This project is developed for **educational and machine learning portfolio purpo
 
 ---
 
-## 👨‍💻 Author
-
-**Mihir Jadhav**
-
-Data Analytics | Machine Learning | Python | SQL | Power BI
-
-GitHub: **MihirJ2002**
-
----
-
 ⭐ If you found this project useful, consider starring the repository.
